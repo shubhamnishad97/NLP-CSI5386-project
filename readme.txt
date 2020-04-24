@@ -1,5 +1,12 @@
 This repo contains the final submission for nlp csi 5386
 
+
+Group members:
+Shubham Nishad 300102830
+Dharna Shukla 300051861
+
+Github link: https://github.com/shubhamnishad97/NLP-CSI5386-project
+
 folder description
 -----------------------------------------------------------------
 1. code: code used to train all the models.

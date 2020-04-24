@@ -1,1 +1,0 @@
-jupyter notebook --notebook-dir=D:\Uottawa\awinter-2020\nlp\project
