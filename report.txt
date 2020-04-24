@@ -1,0 +1,45 @@
+- abstract
+- Experimental setup	
+	-A description of the data to which you applied your research, EDA
+	-A description of the methodology you used to set the various parameters of the systems you used. The idea here is that all your results should be reproduceable by anyone reading your paper. mention aws setup, p2 instance
+	-A description of your evaluation methodology and a discussion of why this evaluation methodology is appropriate
+
+- Results
+	- A description of your results, table or graph, also include human performance.
+	- A discussion of your results. i.e., a section that explains why, in your opinion, the results you reported were obtained: why the system you designed or approaches you compared were successful or why they failed. If you want, you can also discuss what you think would happen under conditions different from those you specifically tested.
+	- A discussion of the relevance of your results: what have you achieved with your study?
+
+- Conclusion (more emphasis on your results and their implications): mention that you were able to reproduce results that the papers mentioned and that training time for transformer was less than RNN 
+------------------------------------------------------------------------------------------------
+Appendix
+- add EDA on squad data
+- add tensorflow dev loss for all models with f1 score
+------------------------------------------------------------------------------------------------
+
+
+
+
+-- table idea: model, emdedding, hours trained/iteration, EM,F1,
+- add attention diagram from bert  
+------------------------------------------------------------------------------------------------
+
+Diagrams
+----------------------
+results table
+
+
+
+------------------------------------------------------------------
+
+
+Abstract
+Trainig and test data: explaind dev,test and train json, how you load the data etc etc
+Conclusion
+Results
+Discussion
+
+for results open
+-------------------------------------------------------------------
+chris chuite github
+afttab paper report
+priya report
